@@ -1,0 +1,2 @@
+NUMERO=int(input("DIGITE UM NÚMERO: "))
+print("O NUMERO INFORMADO FOI: ",NUMERO)
